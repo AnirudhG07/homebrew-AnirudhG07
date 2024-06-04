@@ -27,7 +27,14 @@ This should download by package with the same name.
 # Packages
 This is a list of all my tools that can be downloaded using Homebrew using the above guidelines(which will also be mentioned in their respective github repo's too).
 
-### 1. Typeinc 
+### 1. Cheatshh
+This can be installed using - (after tapping this repo)
+```bash
+brew install AnirudhG07/AnirudhG07/cheatshh
+```
+Cheatshh is an interactive command-line cheatsheet manager, written in shell script. It is Unix mainly, though can be configured specially for windows.<br>Visit: https://github.com/AnirudhG07/cheatshh
+
+### 2. Typeinc 
 This can be installed using - (after tapping this repo)
 ```bash
 brew install AnirudhG07/AnirudhG07/typeinc

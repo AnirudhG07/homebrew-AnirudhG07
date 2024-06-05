@@ -41,5 +41,11 @@ brew install AnirudhG07/AnirudhG07/typeinc
 ```
 Typeinc is a really cool Typing Speed Test terminal tool. It is cross-platform since its mainly python.<br>Visit: https://github.com/AnirudhG07/Typeinc
 
+### 2.5 Typeinc-mini
+This can be installed using - (after tapping this repo)
+```bash
+brew install AnirudhG07/AnirudhG07/typeinc-mini
+```
+This is a miniature version of Typeinc. It is cross-platform since its mainly python.<br>Visit: https://github.com/AnirudhG07/Typeinc-mini
 
 

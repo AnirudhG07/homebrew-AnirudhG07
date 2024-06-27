@@ -1,13 +1,12 @@
 class Cheatshh < Formula
     desc "Cheatshh is a CLI tool to store commands and their descriptions in a place you can look into as cheatshheat so you dont have to remember them."
     homepage "https://github.com/AnirudhG07/cheatshh"
-    url "https://github.com/AnirudhG07/cheatshh/releases/download/v1.1.1/cheatshh-1.1.1.tar.gz"
-    sha256 "b44bef122d1a6bb515e0714d7742da517039172ab7bf974b8323ae741ddc9ac7"
-    version "1.1.1"
+    url "https://github.com/AnirudhG07/cheatshh/releases/download/v1.0.6/cheatshh-1.0.6.tar.gz"
+    sha256 "082a17f4fc98ac1623217f16753ab95b1c479d7a1aafdad0b10e9b3b44cdf35e"
+    version "1.0.6"
     license "Apache-2.0"
 
     depends_on "jq"
-    depends_on "yq"
     depends_on "fzf"
     depends_on "python@3"
 
@@ -27,7 +26,7 @@ class Cheatshh < Formula
 
     def caveats
         <<~EOS
-            Note: Initiall you may not see $HOME/.config/cheatshh directory.
+            Note: Initiall you may not see ~/.config/cheatshh directory.
             You can start using Cheatshh by simply running the 'cheatshh' command. This will create the directory which you can manually configure too.
             Use 'cheatshh --help' to get more information on how to use Cheatshh. 
             

@@ -2,7 +2,7 @@ class Cheatshh < Formula
     desc "Cheatshh is a CLI tool to store commands and their descriptions in a place you can look into as cheatshheat so you dont have to remember them."
     homepage "https://github.com/AnirudhG07/cheatshh"
     url "https://github.com/AnirudhG07/cheatshh/releases/download/v1.1.1/cheatshh-1.1.1.tar.gz"
-    sha256 "b44bef122d1a6bb515e0714d7742da517039172ab7bf974b8323ae741ddc9ac7"
+    sha256 "65169ea0fa0d0bf239a5a420a3446f2a9abf8457542c9ea732b43653984f6d04"
     version "1.1.1"
     license "Apache-2.0"
 

@@ -16,11 +16,6 @@ class Cheatshh < Formula
         sha256 "c3bd05674c8c22b92a0da47f0bb6cfd2da0601e69bd09b3077c92a19d8853c09"
     end
 
-    resource "setuptools" do
-        url "https://files.pythonhosted.org/packages/source/s/setuptools/setuptools-70.1.0.tar.gz"
-        sha256 "01a1e793faa5bd89abc851fa15d0a0db26f160890c7102cd8dce643e886b47f5"
-    end
-
     def install
       system "pip3", "install", ".", "--prefix=#{libexec}"
       xy = Language::Python.major_minor_version Formula["python@3"].opt_bin/"python3"

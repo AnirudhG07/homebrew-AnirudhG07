@@ -13,11 +13,26 @@ This repository serves as Homebrew tap for all formula's and packages I (Anirudh
   - [2. Typeinc](#2-typeinc)
   - [2.5 Typeinc-mini](#25-typeinc-mini)
   - [3. Morseet](#3-morseet)
+  - [4. Ntfyme](#4-ntfyme)
 - [Older Versions of Packages](#older-versions-of-packages)
 
 ## Downloading packages
 
-To download any packages using Homebrew from my tap, first tap my directory by running the following command-
+To download any packages using Homebrew from my tap, you have 2 options -
+
+### Option 1: Direct Installation
+
+You can simply directly install the package by running the following command-
+
+```bash
+brew install anirudg07/anirudhg07/formula
+```
+
+And you are done
+
+### Option 2: Tap
+
+First tap my directory by running the following command-
 
 ```bash
 brew tap AnirudhG07/AnirudhG07
@@ -53,10 +68,10 @@ This is a list of all my tools that can be downloaded using Homebrew using the a
 
 ### 1. Cheatshh
 
-This can be installed using - (after tapping this repo)
+This can be installed using
 
 ```bash
-brew install AnirudhG07/AnirudhG07/cheatshh
+brew install anirudhg07/anirudhg07/cheatshh
 ```
 
 Cheatshh is an interactive command-line cheatsheet manager, written in shell script. It is Unix mainly, though can be configured specially for windows.<br>Visit: https://github.com/AnirudhG07/cheatshh
@@ -66,31 +81,42 @@ Cheatshh is an interactive command-line cheatsheet manager, written in shell scr
 This can be installed using - (after tapping this repo)
 
 ```bash
-brew install AnirudhG07/AnirudhG07/typeinc
+brew install anirudhg07/anirudhg07/typeinc
 ```
 
 Typeinc is a really cool Typing Speed Test terminal tool. It is cross-platform since its mainly python.<br>Visit: https://github.com/AnirudhG07/Typeinc
 
 ### 2.5 Typeinc-mini
 
-This can be installed using - (after tapping this repo)
+This can be installed using -
 
 ```bash
-brew install AnirudhG07/AnirudhG07/typeinc-mini
+brew install anirudhg07/anirudhg07/typeinc-mini
 ```
 
 This is a miniature version of Typeinc. It is cross-platform since its mainly python.<br>Visit: https://github.com/AnirudhG07/Typeinc-mini
 
 ### 3. Morseet
 
-This can be installed using - (after tapping this repo)
+This can be installed using -
 
 ```bash
-brew install AnirudhG07/AnirudhG07/morseet
+brew install anirudhg07/anirudhg07/morseet
 ```
 
 morseet(slang for morse-it) is a command line tool to convert text to morse-code and vice versa. It has various features and customization options making it the only tool
 you would go to. <br>Visit: https://github.com/AnirudhG07/morseet
+
+### 4. Ntfyme
+
+This can be installed using -
+
+```bash
+brew install anirudhg07/anirudhg07/ntfyme
+```
+
+ntfyme(notify-me) is a simple notification tool to notify yourself when a long running process ends with local ping, gmail, telegram, etc.
+you would go to. <br>Visit: https://github.com/AnirudhG07/ntfyme
 
 # Older Versions of Packages
 

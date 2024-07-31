@@ -1,8 +1,8 @@
-class morseet < Formula
+class Morseet < Formula
     desc "morseet(slang for morse-it) is a command line tool to convert text to morse-code and vice versa. It has various features and customization options making it the only tool would go to." 
     homepage "https://github.com/AnirudhG07/morseet"
     url "https://github.com/AnirudhG07/morseet/releases/download/v1.0.0/morseet-1.0.0.tar.gz"
-    sha256 "f46007e8071a6581c7656db43a68d3cb204e3dc0473b3cfc6df9145e25085d21"
+    sha256 "c746058daff004f7a85115e0e614fb3358c3aaa39d5c2ec59711c47b13946c7d"
     license "Apache-2.0"
 
     depends_on "python@3"

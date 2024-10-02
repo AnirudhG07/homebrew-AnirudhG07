@@ -14,6 +14,7 @@ This repository serves as Homebrew tap for all formula's and packages I (Anirudh
   - [2.5 Typeinc-mini](#25-typeinc-mini)
   - [3. Morseet](#3-morseet)
   - [4. Ntfyme](#4-ntfyme)
+  - [5. Bept](#5-bept)
 - [Older Versions of Packages](#older-versions-of-packages)
 
 ## Downloading packages
@@ -117,6 +118,16 @@ brew install anirudhg07/anirudhg07/ntfyme
 
 ntfyme(notify-me) is a simple notification tool to notify yourself when a long running process ends with local ping, gmail, telegram, etc.
 you would go to. <br>Visit: https://github.com/AnirudhG07/ntfyme
+
+### 5. Bept
+
+This can be installed using -
+
+```bash
+brew install anirudhg07/anirudhg07/bept
+```
+
+BEPT - Beginner friendly Electrostatics for Protein analysis Tool is made for analysing proteins which uses functionalities of pdb2pqr and apbs command line tools, but making them more beginner friendly. It is built by Anirudh Gupta along with Team IISc-Software 2024 and junior iGEMers from IISc Bangalore. <br>Visit: https://github.com/IISc-Software-iGEM/bept
 
 # Older Versions of Packages
 
